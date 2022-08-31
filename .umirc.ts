@@ -13,9 +13,9 @@ export default defineConfig({
   // mfsu: {
   //   exclude: ['cesium'],
   // },
-  // define: {
-  //   CESIUM_BASE_URL: '/',
-  // },
+  define: {
+    CESIUM_BASE_URL: '/',
+  },
   antd: {},
   access: {},
   model: {},
